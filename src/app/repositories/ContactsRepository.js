@@ -66,4 +66,3 @@ class ContactsRepository {
 }
 
 module.exports = new ContactsRepository();
-// export default new ContactsRepository();
